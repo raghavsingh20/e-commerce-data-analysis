@@ -13,6 +13,6 @@ Analyzed 120K+ e-commerce order records using SQL to explore business performanc
 
 # Dataset
 
-* The dataset contains e-commerce transactional order data, including: Order details, Product information, Customer type, Shipping details etc
+* Dataset contains e-commerce transactional order data, including: Order details, Product information, Customer type, Shipping details etc
 * Total records: 120K+
 * Dataset source: https://www.kaggle.com/datasets/mdsazzatsardar/amazonsalesreport
