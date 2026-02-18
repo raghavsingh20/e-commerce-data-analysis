@@ -30,7 +30,7 @@ Analyzed 120K+ e-commerce order records using SQL to explore business performanc
 * Q9 How many orders fail due to logistics issues for each of the fulfilment methods?
 * Q10 How does revenue trend on a daily basis within a selected month?
 * Q11 Among postal codes with more than 100 orders, Which have the highest return or rejection rates?
-* Q12 Which product categories are growing or declining over time?
+* Q12 Which product categories grew or declined between April and May?
 * Q13 What is the most in-demand size within each product category?
 * Q14 How can shipping cities be segmented into low, medium and high-value tiers?
 * Q15 Which product categories are most frequently purchased together?
