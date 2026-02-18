@@ -6,10 +6,10 @@ Analyzed 120K+ e-commerce order records using SQL to explore business performanc
 
 # Objectives
 
-## Perform data preprocessing and cleaning using SQL
-Analyze revenue, order patterns, and business performance
-Perform product, customer, and geographic segmentation
-Identify trends and patterns in transactional data
+* Perform data preprocessing and cleaning using SQL
+* Analyze revenue, order patterns, and business performance
+* Perform product, customer, and geographic segmentation
+* Identify trends and patterns in transactional data
 
 # Dataset
 
