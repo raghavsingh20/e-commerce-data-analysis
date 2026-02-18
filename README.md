@@ -20,7 +20,7 @@ Analyzed 120K+ e-commerce order records using SQL to explore business performanc
 ## Business Problems Addressed
 
 * Q1 Which product categories generate the highest average order value (aov)?
-* Q2 Which cities drive the most revenue?
+* Q2 Which states drive the most revenue?
 * Q3 What percentage of total revenue is generated from b2b customers?
 * Q4 Do customers prefer expedited shipping level over standard shipping level?
 * Q5 Which product categories contribute the most to the total revenue?
