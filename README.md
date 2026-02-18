@@ -2,7 +2,7 @@
 
 # Overview
 
-Analyzed 120K+ e-commerce order records using SQL to explore business performance, customer behavior, and operational trends. The project focuses on extracting insights from transactional data using real-world business analysis scenarios.
+Analyzed 120K+ e-commerce order records using SQL to explore business performance, customer behavior and operational trends. The project focuses on extracting insights from transactional data using real-world business analysis scenarios.
 
 # Dataset
 
